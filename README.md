@@ -5,7 +5,7 @@
 
 ### Reason for visit based on walk-in or not
 <p> This visualization illustrates the reasons for patient visits categorized by whether the patient walked in or had a scheduled appointment. It helps understand the proportion of walk-in visits compared to scheduled visits and the reasons behind each type of visit.</p>
-<img src="Images/Reason for visit by WalkIn.png" height = 250*1.5, width = 400*1.5>
+
 
 ### Reason for visit based on City/State or zip code
 <p> This chart provides insights into the distribution of reasons for patient visits based on the patient's location, either by city/state or zip code. It helps identify patterns or disparities in the reasons for visits across different areas.</p>
